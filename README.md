@@ -1,5 +1,8 @@
 # Numerical Optimization HW02: Interior Point Method
 
+807194
+311121677
+
 This project implements an interior point (log-barrier) method for solving small constrained optimization problems in Python, as described in the assignment for Numerical Optimization 2025B.
 
 ## Project Structure
@@ -55,7 +58,8 @@ python -m unittest tests/test_contrained_min.py
 - The project is structured for clarity and reproducibility.
 
 ## Author
-- [Your Name Here]
+- Balthasar Hoettges 
+- Itamar Topol
 
 ---
 
